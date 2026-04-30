@@ -85,7 +85,7 @@ pip install -r requirements.txt
 3. Jalankan Streamlit:
 
 ```bash
-streamlit run app.py
+streamlit run Dashboard_Dicoding.py
 ```
 
 ---
