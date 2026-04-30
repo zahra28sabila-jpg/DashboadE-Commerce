@@ -90,7 +90,7 @@ streamlit run app.py
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 Dataset berisi informasi:
 
@@ -105,7 +105,7 @@ Pastikan file `all_df.csv` berada dalam direktori yang sama dengan `Dashboard.py
 
 ---
 
-## 📌 Insight yang Bisa Didapat
+## Insight yang Bisa Didapat
 
 * Wilayah dengan tingkat keterlambatan tinggi
 * Kategori produk dengan kepuasan pelanggan yang cukup baik
@@ -114,7 +114,7 @@ Pastikan file `all_df.csv` berada dalam direktori yang sama dengan `Dashboard.py
 
 ---
 
-## ⚠️ Catatan
+## Catatan
 
 * Data harus sudah bersih (tidak ada missing value kritikal)
 * Format tanggal harus sesuai (datetime)
