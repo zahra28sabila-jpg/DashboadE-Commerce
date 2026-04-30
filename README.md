@@ -73,11 +73,11 @@ git clone https://github.com/username/ecommerce-dashboard.git
 cd ecommerce-dashboard
 
 2. Buat dan aktifkan Virtual Environment:
-Windows :
+Windows:
 python -m venv venv
 .\venv\Scripts\activate
 
-macOS/Linux :
+macOS/Linux:
 python3 -m venv venv
 source venv/bin/activate
 
@@ -85,7 +85,7 @@ source venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 
-5. Jalankan Streamlit:
+4. Jalankan Streamlit:
 streamlit run Dashboard_Dicoding.py
 
 ## Dataset
