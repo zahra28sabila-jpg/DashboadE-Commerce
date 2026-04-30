@@ -5,7 +5,7 @@ Dashboard interaktif berbasis **Streamlit** untuk menganalisis performa bisnis e
 
 ---
 
-## 🚀 Fitur Utama
+## Fitur Utama
 
 ### 📍 Geo Delay Analysis
 
@@ -37,7 +37,7 @@ Menganalisis tren penjualan bulanan.
 
 ---
 
-### 🎛️ Interactive Sidebar
+### Interactive Sidebar
 
 Dashboard dilengkapi fitur filter interaktif:
 
@@ -63,7 +63,7 @@ Semua visualisasi akan otomatis menyesuaikan dengan filter yang dipilih.
 ```
 .
 ├── Dashboard_Dicoding.py
-├── all_df.csv
+├── all_df.csv.gz
 └── README.md
 ```
 
@@ -120,7 +120,7 @@ Dataset mencakup informasi berikut:
 * Product
 * Delivery timestamp
 
-Pastikan file `all_df.csv` berada dalam direktori yang sama dengan `Dashboard_Dicoding.py`.
+Pastikan file `all_df.csv.gz` berada dalam direktori yang sama dengan `Dashboard_Dicoding.py`.
 
 ---
 
