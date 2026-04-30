@@ -1,5 +1,5 @@
-﻿streamlit : untuk dashboard interaktif
-pandas : olah data (groupby, agregasi, dll)
-Matplotlib :  plotting dasar
-seaborn : visualisasi lebih advanced
-babel :  format angka/mata uang
+﻿streamlit 
+pandas
+matplotlib
+seaborn
+babel\
