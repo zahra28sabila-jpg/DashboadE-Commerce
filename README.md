@@ -68,27 +68,25 @@ Dashboard interaktif berbasis **Streamlit** untuk menganalisis performa data e-c
 ---
 
 ## Cara Menjalankan
-
 1. Clone repository:
-
-```bash
 git clone https://github.com/username/ecommerce-dashboard.git
 cd ecommerce-dashboard
-```
 
-2. Install dependencies:
+2. Buat dan aktifkan Virtual Environment:
+# Windows
+python -m venv venv
+.\venv\Scripts\activate
 
-```bash
+# macOS/Linux
+python3 -m venv venv
+source venv/bin/activate
+
+3. Install dependencies:
+pip install --upgrade pip
 pip install -r requirements.txt
-```
 
-3. Jalankan Streamlit:
-
-```bash
+5. Jalankan Streamlit:
 streamlit run Dashboard_Dicoding.py
-```
-
----
 
 ## Dataset
 
