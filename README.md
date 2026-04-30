@@ -3,7 +3,7 @@
 Dashboard interaktif berbasis **Streamlit** untuk menganalisis performa data e-commerce, mencakup analisis keterlambatan pengiriman, kualitas produk berdasarkan review, serta tren penjualan bulanan.
 
 ---
-## 🚀 Fitur Utama
+##  Fitur Utama
 
 ### 1. 📍 Geo Delay Analysis
 
@@ -36,7 +36,7 @@ Dashboard interaktif berbasis **Streamlit** untuk menganalisis performa data e-c
 
 ---
 
-### 4. 🎛️ Interactive Sidebar
+### 4. Interactive Sidebar
 
 * Filter berdasarkan:
 
@@ -46,7 +46,7 @@ Dashboard interaktif berbasis **Streamlit** untuk menganalisis performa data e-c
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 * Python
 * Streamlit
@@ -56,7 +56,7 @@ Dashboard interaktif berbasis **Streamlit** untuk menganalisis performa data e-c
 
 ---
 
-## 📂 Struktur Proyek
+## Struktur Proyek
 
 ```
 .
@@ -67,7 +67,7 @@ Dashboard interaktif berbasis **Streamlit** untuk menganalisis performa data e-c
 
 ---
 
-## ▶️ Cara Menjalankan
+## Cara Menjalankan
 
 1. Clone repository:
 
